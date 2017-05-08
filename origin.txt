@@ -1,0 +1,84 @@
+Uri: http://sociofobia.pro/
+File Name: c:\Downloaded Web Sites\sociofobia.pro\index.htm
+Content Type: text/html
+
+Uri: http://sociofobia.pro/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/animate.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\animate.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/owl.carousel.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/jquery.mCustomScrollbar.min.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\jquery.mCustomScrollbar.min.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/bootstrap-theme.min.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\bootstrap-theme.min.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/reset.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\reset.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/structure.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\structure.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/main-style.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\main-style.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/star-animation.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\star-animation.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/responsive.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\responsive.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/css/fonts.css
+File Name: c:\Downloaded Web Sites\sociofobia.pro\css\fonts.css
+Content Type: text/css
+
+Uri: http://sociofobia.pro/js/jquery-1.11.3.min.js
+File Name: c:\Downloaded Web Sites\sociofobia.pro\js\jquery-1.11.3.min.js
+Content Type: application/javascript
+
+Uri: http://sociofobia.pro/js/plugins.js
+File Name: c:\Downloaded Web Sites\sociofobia.pro\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://sociofobia.pro/js/classie.js
+File Name: c:\Downloaded Web Sites\sociofobia.pro\js\classie.js
+Content Type: application/javascript
+
+Uri: http://sociofobia.pro/js/dialogFx.js
+File Name: c:\Downloaded Web Sites\sociofobia.pro\js\dialogFx.js
+Content Type: application/javascript
+
+Uri: http://sociofobia.pro/js/common.js
+File Name: c:\Downloaded Web Sites\sociofobia.pro\js\common.js
+Content Type: application/javascript
+
+Uri: http://sociofobia.pro/sociofobia-glitch.js
+File Name: c:\Downloaded Web Sites\sociofobia.pro\sociofobia-glitch.js
+Content Type: application/javascript
+
+Uri: http://sociofobia.pro/sociofobia-anti-copy.js
+File Name: c:\Downloaded Web Sites\sociofobia.pro\sociofobia-anti-copy.js
+Content Type: application/javascript
+
